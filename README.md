@@ -1,16 +1,14 @@
 # weather_app
+# Weather App Features:
+Location Permission: The app requests location permission to determine your current position.
+Weather Lookup: Quickly search and display the weather conditions based on your current area before heading out.
+User-Friendly Interface: A simple interface that shows weather details like temperature, humidity, and conditions at a glance.
+Real-Time Data: Provides accurate, real-time weather updates for the location.
+Easy-to-Use: Just give location permission, and the app will fetch the weather information automatically.
 
-A new Flutter project.
+![Screenshot 2024-10-01 191137](https://github.com/user-attachments/assets/fdfbdd50-fe13-432f-9472-e7a387f12527)
 
-## Getting Started
+![Screenshot 2024-10-01 191157](https://github.com/user-attachments/assets/db2ffded-0552-43d3-844e-16a38caec320)
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-10-01 191541](https://github.com/user-attachments/assets/3a685eb8-78f9-4a82-88b1-c097a342cce3)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
