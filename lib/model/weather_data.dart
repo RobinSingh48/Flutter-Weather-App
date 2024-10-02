@@ -9,7 +9,7 @@ import 'package:weather_app/model/weather_model.dart';
 
 
 class WeatherData {
-  final String apiKey = "84f3efd21b1a6aca41746c014c0ce2e3";
+  final String apiKey = "your apikey";
 
   Future<WeatherModel> getWeatherData(String cityName) async {
     print("City Name: $cityName");
