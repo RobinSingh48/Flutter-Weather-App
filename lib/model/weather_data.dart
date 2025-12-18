@@ -12,7 +12,6 @@ class WeatherData {
   final String apiKey = "your apikey";
 
   Future<WeatherModel> getWeatherData(String cityName) async {
-    print("City Name: $cityName");
     var response = await http.get(Uri.parse(
         "https://api.openweathermap.org/data/2.5/weather?q=$cityName&appid=$apiKey&units=metric"));
     var data = jsonDecode(response.body.toString());
